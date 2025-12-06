@@ -44,11 +44,11 @@ A virtual line detects crossing events.
 
 ### 📊 6. Structured Event Logging
 Exports:
-
+~~~text
 results/
 ├── traffic_events_core.csv
 └── traffic_events_core.json
-
+~~~
 Each log entry contains:
 - Frame
 - Timestamp
