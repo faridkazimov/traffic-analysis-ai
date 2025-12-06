@@ -67,14 +67,15 @@ Using `gpt-4o-mini`, the system generates a **professional traffic analysis repo
 
 traffic-analysis-ai/
 ├── src/
-│ ├── traffic_core.py # Vision pipeline (video → logs)
-│ └── llm_report.py # LLM report generator
-├── data/ # Input videos (ignored in Git)
-├── results/ # Output video + event logs (ignored)
+│   ├── traffic_core.py      # Vision pipeline (video → logs)
+│   └── llm_report.py        # LLM report generator
+├── data/                    # Input videos (ignored in Git)
+├── results/                 # Output video + event logs (ignored)
 ├── requirements.txt
-├── .env # OpenAI key (not committed)
+├── .env                     # OpenAI key (not committed)
 ├── .gitignore
 └── README.md
+
 
 ---
 
@@ -209,4 +210,6 @@ If you find a bug or have an idea, feel free to open an issue.
 
 # 📬 Contact
 
-**Email: kazimov.ferid.99@gmail.com** 
+**Email:** kazimov.ferid.99@gmail.com
+**Linkedin:** https://www.linkedin.com/in/farid-kazimov-a7b90a214/
+https://faridkazimov.com/
