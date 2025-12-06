@@ -65,16 +65,7 @@ Using `gpt-4o-mini`, the system generates a **professional traffic analysis repo
 
 # 🏗 Project Structure
 
-traffic-analysis-ai/
-├── src/
-│   ├── traffic_core.py      # Vision pipeline (video → logs)
-│   └── llm_report.py        # LLM report generator
-├── data/                    # Input videos (ignored in Git)
-├── results/                 # Output video + event logs (ignored)
-├── requirements.txt
-├── .env                     # OpenAI key (not committed)
-├── .gitignore
-└── README.md
+traffic-analysis-ai/ ├── src/ │   ├── traffic_core.py      # Vision pipeline (video → logs) │   └── llm_report.py        # LLM report generator ├── data/                    # Input videos (ignored in Git) ├── results/                 # Output video + event logs (ignored) ├── requirements.txt ├── .env                     # OpenAI key (not committed) ├── .gitignore └── README.md
 
 
 ---
