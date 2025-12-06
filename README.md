@@ -65,7 +65,7 @@ Using `gpt-4o-mini`, the system generates a **professional traffic analysis repo
 
 # 🏗 Project Structure
 
-```bash
+~~~text
 traffic-analysis-ai/
 ├── src/
 │   ├── traffic_core.py      # Vision pipeline (video → logs)
@@ -76,7 +76,7 @@ traffic-analysis-ai/
 ├── .env                     # OpenAI key (not committed)
 ├── .gitignore
 └── README.md
-
+~~~
 
 ---
 
