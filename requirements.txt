@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+numpy
+pandas
+openai
+python-dotenv
+tabulate
